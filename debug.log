@@ -1,0 +1,14 @@
+Watching for file changes with StatReloader
+"POST /validate/numeric_constraints/ HTTP/1.1" 200 84
+"POST /validate/numeric_constraints/ HTTP/1.1" 200 84
+"POST /validate/numeric_constraints/ HTTP/1.1" 200 80
+"POST /validate/numeric_constraints/ HTTP/1.1" 200 81
+"POST /validate/numeric_constraints/ HTTP/1.1" 200 95
+"POST /validate/numeric_constraints/ HTTP/1.1" 200 84
+Bad Request: /validate/numeric_constraints/
+"POST /validate/numeric_constraints/ HTTP/1.1" 400 44
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2438
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2489
